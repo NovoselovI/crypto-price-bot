@@ -26,7 +26,7 @@ A simple and user-friendly Telegram bot that converts any amount in USD to its r
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/crypto-price-bot.git
+   git clone https://github.com/NovoselovL/crypto-price-bot.git
    cd crypto-price-bot
    ```
 
